@@ -8,9 +8,6 @@ This is a simple React web application designed to manage and display a list of 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -53,3 +50,7 @@ npm start
 2. **Open your web browser and navigate to http://localhost:3000.
 
 You can now add, edit, or delete healthcare services.
+## output 
+**Home page
+![image](https://github.com/user-attachments/assets/8c230c73-a868-48fc-84f1-70b406ccd9ac)
+
