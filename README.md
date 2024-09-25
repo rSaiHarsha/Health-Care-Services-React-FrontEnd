@@ -58,13 +58,15 @@ You can now add, edit, or delete healthcare services.
   ![image](https://github.com/user-attachments/assets/c09c7be3-2be3-4cee-adfb-e8a655a28e32)
 
 3. Add Service
-   ![image](https://github.com/user-attachments/assets/af207851-98e7-4212-a78c-809f658319aa)
+   
+  ![image](https://github.com/user-attachments/assets/af207851-98e7-4212-a78c-809f658319aa)
 
-4. Edit Service
-   ![image](https://github.com/user-attachments/assets/341fc936-910f-45b9-b1eb-c1136b073929)
+5. Edit Service
+   
+  ![image](https://github.com/user-attachments/assets/341fc936-910f-45b9-b1eb-c1136b073929)
 
-5. Delete Service
-   ![image](https://github.com/user-attachments/assets/a37aa101-9985-4a50-aa9e-798e81743f55)
+6. Delete Service
+  ![image](https://github.com/user-attachments/assets/a37aa101-9985-4a50-aa9e-798e81743f55)
 
   
  
